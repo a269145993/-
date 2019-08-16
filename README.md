@@ -1,2 +1,5 @@
-# -
-这是第一个库，新手
+# hello-world
+
+Hi,wuming
+
+How are you? I like node,js and coffeesript
